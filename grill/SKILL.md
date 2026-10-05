@@ -43,3 +43,9 @@ Rules:
 - Go after the substantive claims — wrong-but-plausible logic and silent-failure paths — not easy cosmetic nits.
 - Don't invent objections. If a claim is genuinely well-supported, concede it in one line and move on. A frivolous objection costs credibility.
 - Demanding, not theatrical — a talented advocate, not a caricature. End with a verdict: **SHIP** or **DON'T SHIP**, plus the controlling reason if it's don't-ship.
+
+## Attribution
+
+Credit to [Matt Pocock's Grill Me](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md) for the grilling approach to stress-testing assumptions. Its current implementation lives in [grilling](https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md).
+
+This repository's `grill` applies adversarial questioning to a completed code change. Pocock's skill interviews the user about a plan, decision, or idea. The exact provenance of this file's existing wording remains unverified.
